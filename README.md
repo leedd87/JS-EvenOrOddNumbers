@@ -4,7 +4,7 @@
 
 - 🌱 I’m currently learning **all about developing**
 
-- 👨‍💻 All of my projects are available at [https://github.com/leedd87/CODER-ProyectoFinal](https://github.com/leedd87/CODER-ProyectoFinal)
+- 👨‍💻 Some of my projects are available at [https://github.com/leedd87/CODER-ProyectoFinal](https://github.com/leedd87/CODER-ProyectoFinal)
 
 - 📫 How to reach me **leedav87@gmail.com**
 
